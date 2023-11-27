@@ -1,9 +1,9 @@
-<div id="greeting" align="center">
+<div id="greeting" style="text-align: center; font-size: 20px; color: white;">
     Hi and welcome to my GitHub Page!
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header" style="text-align: center;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="border-radius: 50%;"/>
 </div>
 
 <!--
