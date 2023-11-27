@@ -6,7 +6,7 @@
 &nbsp;
 
 <div id="greeting" align="center">
-I am currently studying Computer Engineering at Jönköping University and have recently embarked on my coding adventure.
+I am currently studying Computer Engineering at Jönköping University where I have embarked on my coding adventure.
 </div>
 
 &nbsp;
