@@ -1,11 +1,10 @@
-<div id="greeting" style="text-align: center; font-size: 20px; color: white;">
+<div id="greeting" align="center" style ="font-size: 20px; color: blue;">
     Hi and welcome to my GitHub Page!
 </div>
 
-<div id="header" style="text-align: center;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="border-radius: 50%;"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 <!--
 **DenisUreke/DenisUreke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
