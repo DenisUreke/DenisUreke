@@ -2,24 +2,11 @@
     Hi and welcome to my GitHub Page!
 </div>
 
-#include <iostream>
-
-int main() {
-    int numSpaces;
-    std::cout << "Enter the number of spaces: ";
-    std::cin >> numSpaces;
-
-    for (int i = 0; i < numSpaces; ++i) {
-        std::cout << " ";
-    }
-
-    std::cout << std::endl;
-    return 0;
-}
-
 <div id="greeting" align="center">
 I am currently studying Computer Engineering at Jönköping University and have recently embarked on my coding adventure.
 </div>
+
+&nbsp;
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
