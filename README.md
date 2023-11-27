@@ -1,4 +1,4 @@
-<div id="greeting" style="text-align: center; font-size: 20px; color: blue;">
+<div id="greeting" align="center">
     Hi and welcome to my GitHub Page!
 </div>
 
