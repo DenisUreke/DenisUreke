@@ -1,4 +1,4 @@
-<div id="greeting" align="center" style="margin-bottom: 20px;">
+<div id="greeting" align="center" style= "margin-bottom: 20px">
     Hi and welcome to my GitHub Page!
 </div>
 
