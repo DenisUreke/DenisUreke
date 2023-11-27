@@ -1,6 +1,9 @@
+&nbsp;
+
 <div id="greeting" align="center">
     Hi and welcome to my GitHub Page!
 </div>
+&nbsp;
 
 <div id="greeting" align="center">
 I am currently studying Computer Engineering at Jönköping University and have recently embarked on my coding adventure.
